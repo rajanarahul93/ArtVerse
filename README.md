@@ -14,8 +14,6 @@ Welcome to the Art Gallery website! This project showcases a responsive navigati
 
 The Art Gallery website is designed to provide an immersive experience for art enthusiasts. It features a responsive navigation bar that transforms into a hamburger menu on smaller screens. The home page displays a collection of artworks and creative video clips, creating a visually appealing and interactive user interface.
 
-Uploading Art Gallery - Google Chrome 2024-01-28 09-28-28.mp4…
-
 ## Features
 
 - Responsive navigation bar with a hamburger menu for smaller screens.
